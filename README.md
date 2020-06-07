@@ -6,3 +6,5 @@ Discussing Kickstarter Campaigns focused on outcomes based on goals reveals thre
 
 Concerning Launch date observations, the evidence seems to present that launch dates spike around May/June and fall over time. This may be due to Summer activity, especially with summer and an active society due to lax work hours and children out of school. Furthermore, there may be a cyclical success and failure rate due to key demographics and regional locations. You could dig further into socio economic branches and see if regional areas are predisposed to certain Theater showings. The data lacks how a launch was executed as even if everone launches around the same quarter or April, May, June there may be key details as to how the launch was executed and the circumstances again around enthusiasms and the total number of attendees who helps launch a campaign. 
 
+
+https://github.com/kevinsconnolly/Kevin
