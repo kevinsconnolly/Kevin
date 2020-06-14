@@ -1,5 +1,16 @@
 # VU-VIRT-DATA-PT-05-2020-U-B
 
+
+###Challenge
+
+Update and fine tune VBA Code for more efficient data pull.
+
+For this assignment, we were given a piece of VBA code with the instruciton to "rework the code in order to be more efficient" with the goal of making the code saving time and frustration. There are a few key updates to the code in order to ensure a "more efficient" piece of VBA. 
+  1) Total volume and tickers index set to zero
+  2) Added tickersindex which helped maintain the key data to the respective stock symbol
+    a) This helped ensure a more efficient piece of code to store all the data for the stock symbol by effectively increasing the total        volume by the value (stock symbol) in the current row. 
+
+
 ###Challenge
 
 
